@@ -1,0 +1,3 @@
+[submodule "sueldosargentinos/mainapp/static/bootstrap"]
+	path = sueldosargentinos/mainapp/static/bootstrap
+	url = https://github.com/twbs/bootstrap/
