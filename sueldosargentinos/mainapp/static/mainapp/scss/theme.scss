@@ -3,3 +3,8 @@ $secondary: #BDBDBD;
 $body-bg: #F3FAFF;
 
 @import './bootstrap/scss/bootstrap';
+
+.px-10 {
+  padding-left: ($spacer * 8) !important;
+  padding-right: ($spacer * 8) !important;
+}

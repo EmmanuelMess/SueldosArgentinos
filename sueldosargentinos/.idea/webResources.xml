@@ -6,6 +6,7 @@
         <entryData>
           <resourceRoots>
             <path value="file://$PROJECT_DIR$/mainapp/static/bootstrap-4.3.1" />
+            <path value="file://$PROJECT_DIR$/mainapp/templates" />
           </resourceRoots>
         </entryData>
       </entry>
