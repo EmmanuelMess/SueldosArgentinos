@@ -1,3 +1,6 @@
 [submodule "sueldosargentinos/mainapp/static/bootstrap"]
 	path = sueldosargentinos/mainapp/static/bootstrap
 	url = https://github.com/twbs/bootstrap/
+[submodule "sueldosargentinos/mainapp/static/pyodide"]
+	path = sueldosargentinos/mainapp/static/pyodide
+	url = https://github.com/pyodide/pyodide

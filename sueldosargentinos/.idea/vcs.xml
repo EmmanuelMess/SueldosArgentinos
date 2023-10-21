@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$/mainapp/static/bootstrap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mainapp/static/pyodide" vcs="Git" />
   </component>
 </project>
